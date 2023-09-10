@@ -1,0 +1,100 @@
+Emp_id,name,domain,year founded,industry,size range,locality,country,linkedin url,current employee estimate,total employee estimate
+5872184,ibm,ibm.com,1911,information technology and services,10001+,"new york, new york, united states",united states,linkedin.com/company/ibm,274047,716906
+4425416,tata consultancy services,tcs.com,1968,information technology and services,10001+,"bombay, maharashtra, india",india,linkedin.com/company/tata-consultancy-services,190771,341369
+21074,accenture,accenture.com,1989,information technology and services,10001+,"dublin, dublin, ireland",ireland,linkedin.com/company/accenture,190689,455768
+2309813,us army,goarmy.com,1800,military,10001+,"alexandria, virginia, united states",united states,linkedin.com/company/us-army,162163,445958
+1558607,ey,ey.com,1989,accounting,10001+,"london, greater london, united kingdom",united kingdom,linkedin.com/company/ernstandyoung,158363,428960
+3844889,hewlett-packard,hpe.com,1939,information technology and services,10001+,"palo alto, california, united states",united states,linkedin.com/company/hewlett-packard-enterprise,127952,412952
+2959148,cognizant technology solutions,cognizant.com,1994,information technology and services,10001+,"teaneck, new jersey, united states",united states,linkedin.com/company/cognizant,122031,210020
+5944912,walmart,walmartcareers.com,1962,retail,10001+,"withee, wisconsin, united states",united states,linkedin.com/company/walmart,120753,272827
+3727010,microsoft,microsoft.com,1975,computer software,10001+,"redmond, washington, united states",united states,linkedin.com/company/microsoft,116196,276983
+3300741,at&t,att.com,1876,telecommunications,10001+,"dallas, texas, united states",united states,linkedin.com/company/at&t,115188,269659
+5412257,united states air force,airforce.com,1947,defense & space,10001+,"randolph, texas, united states",united states,linkedin.com/company/united-states-air-force,113997,316549
+2780814,pwc,pwc.com,1998,accounting,10001+,"new york, new york, united states",united states,linkedin.com/company/pwc,111372,379447
+3972223,wells fargo,wellsfargo.com,,financial services,10001+,"san francisco, california, united states",united states,linkedin.com/company/wellsfargo,109532,264101
+1454663,infosys,infosys.com,1981,information technology and services,10001+,"bangalore, karnataka, india",india,linkedin.com/company/infosys,104752,215718
+3221953,deloitte,deloitte.com,1900,management consulting,10001+,"new york, new york, united states",united states,linkedin.com/company/deloitte,104112,329145
+2994580,citi,citigroup.com,1812,financial services,10001+,"new york, new york, united states",united states,linkedin.com/company/citi,101482,298171
+5372097,bank of america,bankofamerica.com,1968,banking,10001+,"charlotte, north carolina, united states",united states,linkedin.com/company/bank-of-america,97357,279769
+1170519,jpmorgan chase & co.,jpmorganchase.com,1823,financial services,10001+,"new york, new york, united states",united states,linkedin.com/company/jpmorgan-chase,95234,242135
+4000842,us navy,navy.com,,military,10001+,"washington, district of columbia, united states",united states,linkedin.com/company/us-navy,94458,325740
+4306268,amazon,amazon.com,1994,internet,10001+,"seattle, washington, united states",united states,linkedin.com/company/amazon,93247,161866
+5735407,apple,apple.com,1976,consumer electronics,10001+,"cupertino, california, united states",united states,linkedin.com/company/apple,90095,179531
+2441266,siemens,siemens.com,1847,electrical/electronic manufacturing,10001+,"munich, bavaria, germany",germany,linkedin.com/company/siemens,87381,240528
+229577,oracle,oracle.com,1977,information technology and services,10001+,"redwood shores, california, united states",united states,linkedin.com/company/oracle,85090,206211
+1685535,nokia,nokia.com,1865,telecommunications,10001+,"espoo, uusimaa, finland",finland,linkedin.com/company/nokia,84327,251795
+4604890,education nationale,education.gouv.fr,,public policy,10001+,"paris, île-de-france, france",france,linkedin.com/company/education-nationale,84218,101083
+6021320,capgemini,capgemini.com,1967,information technology and services,10001+,"france, aquitaine, france",france,linkedin.com/company/capgemini,84179,203525
+1373987,wipro technologies,wipro.com,1945,information technology and services,10001+,"bangalore, karnataka, india",india,linkedin.com/company/wipro,78261,177368
+4968033,hsbc,hsbc.com,1865,financial services,10001+,"london, greater london, united kingdom",united kingdom,linkedin.com/company/hsbc,75640,225649
+1001070,google,google.com,1998,internet,10001+,"mountain view, california, united states",united states,linkedin.com/company/google,75109,131349
+4186125,united states postal service,usps.com,,government administration,10001+,"washington, district of columbia, united states",united states,linkedin.com/company/usps,74357,104159
+6465913,mcdonald's corporation,aboutmcdonalds.com,1955,restaurants,10001+,"oak brook, illinois, united states",united states,linkedin.com/company/mcdonald's-corporation,68233,235199
+3874979,ericsson,ericsson.com,,information technology and services,10001+,"kista, stockholm, sweden",sweden,linkedin.com/company/ericsson,67692,178578
+295807,nhs,,1948,hospital & health care,10001+,,,linkedin.com/company/nhs,67564,92596
+651752,boeing,boeing.com,1916,aviation & aerospace,10001+,"chicago, illinois, united states",united states,linkedin.com/company/boeing,67261,120776
+1379366,vodafone,vodafone.com,1982,telecommunications,10001+,"berks, west berkshire, united kingdom",united kingdom,linkedin.com/company/vodafone,66632,174892
+100292,kaiser permanente,kaiserpermanente.org,1945,hospital & health care,10001+,"oakland, california, united states",united states,linkedin.com/company/kaiser-permanente,65839,105240
+6249577,ford motor company,ford.com,1903,automotive,10001+,"dearborn, michigan, united states",united states,linkedin.com/company/ford-motor-company,65335,133963
+5872179,intel corporation,intel.com,1968,semiconductors,10001+,"santa clara, california, united states",united states,linkedin.com/company/intel-corporation,64046,146247
+2396132,department of veterans affairs,va.gov,1930,government administration,10001+,"washington, district of columbia, united states",united states,linkedin.com/company/department-of-veterans-affairs,62685,86489
+4291705,cisco,cisco.com,1984,computer networking,10001+,"san jose, california, united states",united states,linkedin.com/company/cisco,61803,139423
+5654137,general motors,gm.com,,automotive,10001+,"detroit, michigan, united states",united states,linkedin.com/company/general-motors,61638,128429
+7076008,pepsico,pepsico.com,1965,food & beverages,10001+,"purchase, new york, united states",united states,linkedin.com/company/pepsico,61040,146820
+1470821,target,target.com,1962,retail,10001+,"minneapolis, minnesota, united states",united states,linkedin.com/company/target,60602,204360
+2945894,shell,shell.com,1833,oil & energy,10001+,"the hague, zuid-holland, netherlands",netherlands,linkedin.com/company/shell,60324,147906
+4296553,hcl technologies,hcltech.com,1991,information technology and services,10001+,"noida, uttar pradesh, india",india,linkedin.com/company/hcl-technologies,59993,127468
+1752210,ups,ups.com,1907,transportation/trucking/railroad,10001+,"atlanta, georgia, united states",united states,linkedin.com/company/ups,59712,132381
+6001034,pfizer,pfizer.com,1848,pharmaceuticals,10001+,"new york, new york, united states",united states,linkedin.com/company/pfizer,59588,176364
+3844400,unilever,unilever.com,1872,consumer goods,10001+,"london, greater london, united kingdom",united kingdom,linkedin.com/company/unilever,58819,168219
+1104865,nestlé,nestle.com,1866,food & beverages,10001+,"vevey, vaud, switzerland",switzerland,linkedin.com/company/nestle-s-a-,58538,139821
+4979859,unitedhealth group,unitedhealthgroup.com,1980,hospital & health care,10001+,"minneapolis, minnesota, united states",united states,linkedin.com/company/unitedhealth-group,57720,103293
+3243805,huawei technologies,huawei.com,1987,telecommunications,10001+,"shenzhen, guangdong, china",china,linkedin.com/company/huawei,57255,113434
+5486571,dell,dell.com,1984,information technology and services,10001+,"round rock, texas, united states",united states,linkedin.com/company/dell,55945,164468
+1704309,gsk,gsk.com,1830,pharmaceuticals,10001+,"hayes, hillingdon, united kingdom",united kingdom,linkedin.com/company/glaxosmithkline,54117,147725
+5058468,honeywell,honeywell.com,1985,electrical/electronic manufacturing,10001+,"morristown, new jersey, united states",united states,linkedin.com/company/honeywell,51721,123249
+1360249,sap,sap.com,1972,computer software,10001+,,,linkedin.com/company/sap,51441,102773
+3737260,schlumberger,slb.com,1926,oil & energy,10001+,"houston, texas, united states",united states,linkedin.com/company/schlumberger,50715,122759
+4985291,lockheed martin,lockheedmartin.com,1912,defense & space,10001+,"bethesda, maryland, united states",united states,linkedin.com/company/lockheed-martin,50303,117362
+4083731,"ayatama energi, trisco nusantara",,1999,design,10001+,,,linkedin.com/company/ayatama-energi-trisco-nusantara,48806,49370
+5842173,abb,abb.com,,electrical/electronic manufacturing,10001+,"zurich, zurich, switzerland",switzerland,linkedin.com/company/abb,47434,107903
+4112520,american center of krasnodar,,,education management,10001+,,,linkedin.com/company/american-center-of-krasnodar,47345,47924
+2187941,starbucks,starbucks.com,1971,retail,10001+,"seattle, washington, united states",united states,linkedin.com/company/starbucks,46523,147107
+3936147,promobroker agente de seguros y de fianzas s a de c v,,,insurance,10001+,,,linkedin.com/company/promobroker-agente-de-seguros-y-de-fianzas-s-a-de-c-v,44926,45655
+4107042,morgan stanley,morganstanley.com,1935,financial services,10001+,"new york, new york, united states",united states,linkedin.com/company/morgan-stanley,44799,141694
+3117142,the home depot,homedepot.com,1977,retail,10001+,"atlanta, georgia, united states",united states,linkedin.com/company/the-home-depot,44630,114799
+2118,independiente,ailinsemprini.com.ar,,photography,10001+,,,linkedin.com/company/independiente_28,44148,47788
+4479252,novartis,novartis.com,1996,pharmaceuticals,10001+,"basel, basel-city, switzerland",switzerland,linkedin.com/company/novartis,44054,117021
+1749711,johnson & johnson,jnj.com,1887,hospital & health care,10001+,"new brunswick, new jersey, united states",united states,linkedin.com/company/johnson-&-johnson,43985,118073
+5505720,bp,bp.com,1909,oil & energy,10001+,"london, greater london, united kingdom",united kingdom,linkedin.com/company/bp,43657,106895
+2596333,schneider electric,schneider-electric.com,1836,electrical/electronic manufacturing,10001+,"erlanger, kentucky, united states",united states,linkedin.com/company/schneider-electric,43240,94889
+4520365,state farm,statefarm.com,1922,insurance,10001+,"bloomington, illinois, united states",united states,linkedin.com/company/state_farm,43096,88684
+4842820,secretaría de educación pública,sep.gob.mx,,government administration,10001+,,,linkedin.com/company/sep,42795,46758
+3460593,dhl,dhl.com,1969,logistics and supply chain,10001+,"bonn, nordrhein-westfalen, germany",germany,linkedin.com/company/dhl,42501,111977
+6921751,my home,andyross.net,,publishing,10001+,,,linkedin.com/company/home_59,42341,43742
+4784855,td,td.com,1955,banking,10001+,"toronto, ontario, canada",canada,linkedin.com/company/td,42136,93645
+2122790,ge,ge.com,1892,electrical/electronic manufacturing,10001+,"fairfield, connecticut, united states",united states,linkedin.com/company/ge,42043,136710
+586049,philips,philips.com,1891,hospital & health care,10001+,"guildford, surrey, united kingdom",united kingdom,linkedin.com/company/philips,41732,115665
+313532,ubs,ubs.com,1862,financial services,10001+,"zurich, zurich, switzerland",switzerland,linkedin.com/company/ubs,41445,128075
+2407251,procter & gamble,pg.com,1837,consumer goods,10001+,"cincinnati, ohio, united states",united states,linkedin.com/company/procter-and-gamble,40562,122317
+5029327,walgreens,walgreens.com,1901,retail,10001+,"deerfield, illinois, united states",united states,linkedin.com/company/walgreens,40455,98131
+6217067,"keller williams realty, inc.",kw.com,1983,real estate,10001+,"austin, texas, united states",united states,linkedin.com/company/keller-williams-realty-inc,40325,59266
+2268961,"lowe's companies, inc.",lowes.com,1946,retail,10001+,"mooresville, north carolina, united states",united states,linkedin.com/company/lowe's-home-improvement,39741,91802
+916981,verbum traducción y edición,,,translation and localization,10001+,,,linkedin.com/company/verbum-traducci-n-y-edici-n,39679,39736
+1958827,united states marine corps,marines.com,,military,10001+,"washington, district of columbia, united states",united states,linkedin.com/company/united-states-marine-corps,38917,165778
+2636553,dell emc,dellemc.com,1979,information technology and services,10001+,"hopkinton, massachusetts, united states",united states,linkedin.com/company/dellemc,38703,80248
+4482331,tech mahindra,techmahindra.com,1986,information technology and services,10001+,"pune, maharashtra, india",india,linkedin.com/company/tech-mahindra,38631,81583
+825557,verizon wireless,verizonwireless.com,2000,telecommunications,10001+,"basking ridge, new jersey, united states",united states,linkedin.com/company/verizon-wireless,38627,93157
+6233790,sanofi,sanofi.com,,pharmaceuticals,10001+,"paris, île-de-france, france",france,linkedin.com/company/sanofi,38533,99940
+1279232,bnp paribas,bnpparibas.com,1848,banking,10001+,"paris, île-de-france, france",france,linkedin.com/company/bnp-paribas,37835,101571
+1712673,sodexo,sodexo.com,1966,facilities services,10001+,,,linkedin.com/company/sodexo,37611,86557
+4474110,deutsche bank,db.com,1870,investment banking,10001+,"frankfurt, hessen, germany",germany,linkedin.com/company/deutsche-bank,37595,118832
+3515714,tencent,tencent.com,1998,internet,10001+,"shenzhen, guangdong, china",china,linkedin.com/company/tencent,37574,42617
+2769600,j.p. morgan,jpmorgan.com,,financial services,10001+,"new york, new york, united states",united states,linkedin.com/company/j-p-morgan,37431,98722
+900902,verizon,verizon.com,1983,information technology and services,10001+,"basking ridge, new jersey, united states",united states,linkedin.com/company/verizon,37368,85643
+323766,l'oréal,loreal.com,,cosmetics,10001+,"paris, île-de-france, france",france,linkedin.com/company/loreal,37319,107296
+5827698,kpmg,kpmg.com,1987,accounting,10001+,"montvale, new jersey, united states",united states,linkedin.com/company/kpmg,36853,111980
+5626776,orange,orange.com,1988,telecommunications,10001+,"paris, île-de-france, france",france,linkedin.com/company/orange,36340,92180
+3621470,linkedin,linkedin.com,2003,internet,10001+,"mountain view, california, united states",united states,linkedin.com/company/linkedin,36309,43622
+6821034,barclays,barclays.com,,financial services,10001+,"london, greater london, united kingdom",united kingdom,linkedin.com/company/barclays-bank,36200,105849
+3372569,facebook,facebook.com,2004,internet,10001+,"menlo park, california, united states",united states,linkedin.com/company/facebook,36149,49059

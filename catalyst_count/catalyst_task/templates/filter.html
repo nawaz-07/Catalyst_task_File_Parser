@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Filtered Data</title>
+</head>
+{% extends 'account/base.html' %}
+
+{% block content %}
+<body>
+    <form method="get">
+        <!-- Select options for filtering -->
+        <label for="emp_id">Employee ID:</label>
+        <select class="form-select" name="emp_id" id="emp_id">
+            <option value="">-- Select Employee ID --</option>
+            {% for item in filtered_data %}
+            <option value="{{ item.Emp_id }}">{{ item.Emp_id }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="name">Name:</label>
+        <select class="form-select" name="name" id="name">
+            <option value="">-- Select Name --</option>
+            {% for item in filtered_data %}
+            <option value="{{ item.name }}">{{ item.name }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="year">Year:</label>
+        <select name="year" id="year">
+            <option value="">-- Select Year --</option>
+            {% for item in filtered_data %}
+            <option value="{{ item.year }}">{{ item.year }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="domain">Domain:</label>
+        <select name="domain" id="domain">
+            <option value="">-- Select Domain --</option>
+            {% for item in filtered_data %}
+            <option value="{{ item.domain }}">{{ item.domain }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="industry">Industry:</label>
+        <select name="industry" id="industry">
+            <option value="">-- Select Industry --</option>
+            {% for item in filtered_data %}
+            <option value="{{ item.industry }}">{{ item.industry }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="size">Size:</label>
+        <select name="size" id="size">
+            <option value="">-- Select Size --</option>
+            {% for item in filtered_data %}
+            <option value="{{ item.size }}">{{ item.size }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="area">Area:</label>
+        <select name="area" id="area">
+            <option value="">-- Select Area --</option>
+            {% for item in filtered_data %}
+            <option value="{{ item.area }}">{{ item.area }}</option>
+            {% endfor %}
+        </select>
+
+        <button  type="submit">Filter</button>
+        <button type="submit"><a href="?">Reset</a></button>
+    </form>
+
+    <hr>
+
+    {% if filtered_data %}
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Employee ID</th>
+                <th>Name</th>
+                <th>Year</th>
+                <th>Domain</th>
+                <th>Industry</th>
+                <th>Size</th>
+                <th>Area</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in filtered_data %}
+            <tr scope="row">
+                <td>{{ item.Emp_id }}</td>
+                <td>{{ item.name }}</td>
+                <td>{{ item.year }}</td>
+                <td>{{ item.domain }}</td>
+                <td>{{ item.industry }}</td>
+                <td>{{ item.size }}</td>
+                <td>{{ item.area }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% else %}
+    <p>No data found.</p>
+    {% endif %}
+
+    
+</body>
+{% endblock %}
+</html>
